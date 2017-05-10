@@ -6,6 +6,6 @@
 ##Takım (Team Members)
 1) Barış
 
-2) Beyza : https://github.com/gurbuzbeyza
+2) Bar?? : https://github.com/barisesmer
 
 3) Esra : https://github.com/esra-aydemir
