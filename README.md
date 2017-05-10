@@ -4,8 +4,6 @@
 (Our solution for the "real life problem" in the contest)
 
 ##Takım (Team Members)
-1) Barış
-
-2) Bar?? : https://github.com/barisesmer
+1) Barış : https://github.com/barisesmer
 
 3) Esra : https://github.com/esra-aydemir
